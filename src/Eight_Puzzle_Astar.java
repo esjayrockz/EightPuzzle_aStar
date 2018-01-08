@@ -12,7 +12,7 @@ import java.util.Stack;
 
 public class Eight_Puzzle_Astar {
 
-    // Contains the code for implementing the 8 puzzle problem using A* algorithm.
+    // Contains the code for implementing the 8 puzzle problem using A star algorithm.
 
     public static void main(String[] args)
     {
